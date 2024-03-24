@@ -5,7 +5,7 @@ Welcome to my 3D Machine learning project! This repository contains code and res
 
 ## Overview
 
-This project aims to demonstrate my proficiency in 3D machine learning and point cloud analysis. Key components of the project include:
+This project aims to explore 3D machine learning and point cloud analysis. Key components of the project include:
 
 - Data preprocessing: Loading, preprocessing, and feature extraction from 3D point cloud data.
 - Model training: Training machine learning models (Random Forest, K-Nearest Neighbors, MLP) for semantic segmentation of point clouds.
