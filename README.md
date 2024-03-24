@@ -1,7 +1,7 @@
 # 3D_Deep-Learning-Computer-Vision
 
 
-Welcome to my 3D machine learning portfolio project! This repository contains code and resources for a project focused on point cloud semantic segmentation using machine learning techniques.
+Welcome to my 3D Machine learning project! This repository contains code and resources for a project focused on point cloud semantic segmentation using machine learning techniques.
 
 ## Overview
 
@@ -14,14 +14,13 @@ This project aims to demonstrate my proficiency in 3D machine learning and point
 
 ## Motivation
 
-As an aspiring data scientist with a keen interest in spatial data analysis and machine learning, this project serves as a showcase of my skills and capabilities in the field. By demonstrating my ability to work with complex spatial datasets and apply advanced machine learning techniques, I aim to highlight my potential as a valuable asset in data-driven projects.
+With a keen interest in exploring point cloud data and segmentation, this project serves as an exploration of spatial data analysis and machine learning techniques. By following a blog tutorial and applying the concepts learned, I aim to gain a deeper understanding of working with complex spatial datasets and applying machine learning algorithms for segmentation tasks.
 
 ## Getting Started
 
 To explore this project:
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Open and run the Jupyter notebook `point_cloud_semantic_segmentation.ipynb` to execute the code and reproduce the results.
+2. Open and run the Jupyter notebook `point_cloud_semantic_segmentation.ipynb` to execute the code and reproduce the results.
 
 ## Dependencies
 
@@ -33,4 +32,3 @@ The following dependencies are required to run the code:
 - matplotlib
 - seaborn
 
-Install the dependencies using the following command:
