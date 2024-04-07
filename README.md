@@ -1,4 +1,4 @@
-# 3D_Deep-Learning-Computer-Vision
+# Point_cloud- Semantic_segmentation
 
 
 Welcome to my 3D Machine learning project! This repository contains code and resources for a project focused on point cloud semantic segmentation using machine learning techniques.
